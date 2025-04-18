@@ -1,12 +1,11 @@
-##Hi there, I'm [Red-dev] 👋
-
+## Hi there, I'm Red-dev 👋
 Welcome to my GitHub profile! I'm a passionate software developer focused on writing clean,
 efficient, and impactful code. Whether it's backend systems, I enjoy turning ideas into real-world solutions.
 <hr>
 
-📊 About Me
+## 📊 About Me
 
-💻 Python Developer with a focus on backend architecture
+💻 Python Developer with a focus on backend architecture 
 
 🌐 Strong interest in APIs, automation, and real-time applications
 
@@ -15,15 +14,18 @@ efficient, and impactful code. Whether it's backend systems, I enjoy turning ide
 ✨ Dedicated to writing readable and maintainable code
 <hr>
 
-🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 Languages   : Python, HTML/CSS, JavaScript (learning...)
+
 Frameworks  : Flask, FastAPI, Django (learning...)
+
 Tools       : Git & GitHub, VS Code, Postman, Pycharm
+
 Other       : REST APIs, JSON, Markdown
 <hr>
 
-🚀 Highlight Projects
+## 🚀 Highlight Projects
 
 🦝 Animal Info Web Generator
 
