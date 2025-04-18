@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer focused on writing clean,
 efficient, and impactful code. Whether it's backend systems, I enjoy turning ideas into real-world solutions.
 <hr>
-
+<br>
 ## 📊 About Me
 
 💻 Python Developer with a focus on backend architecture 
@@ -41,9 +41,11 @@ Filters animals based on user-selected skin types
 
 Built in Python with a modular structure
 
+
 💬 WhatsApp-style Chat App (In Progress)
 
 Full-featured messaging platform with authentication, media sharing, and real-time capabilities. Built using Python backend and JavaScript frontend (learning)
+
 
 🎥 Movie Database Manager
 
