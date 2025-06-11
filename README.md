@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer&center=true&width=500&height=50">
 
 ## Hi there, I'm Red-dev 👋
 Welcome to my GitHub profile! I'm a passionate software developer focused on writing clean,
